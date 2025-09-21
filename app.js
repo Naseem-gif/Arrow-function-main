@@ -343,14 +343,81 @@ console.log(catArr);
 
     
 
+// const movies = [
+//   { title: "Inception", year: 2010, rating: 8.8 },
+//   { title: "The Matrix", year: 1999, rating: 8.7 },
+//   { title: "Interstellar", year: 2014, rating: 8.6 },
+//   { title: "The Godfather", year: 1972, rating: 9.2 },
+//   { title: "Parasite", year: 2019, rating: 8.6 },
+//   { title: "The Dark Knight", year: 2008, rating: 9.0 },
+//   { title: "Fight Club", year: 1999, rating: 8.8 },
+//   { title: "Forrest Gump", year: 1994, rating: 8.8 }
+// ];
+
+
+// const recentMovies = movies.filter( (item)=> item.year > 2008 
+    
+//  )
+
+
+// console.log(recentMovies);
 
 
 
 
 
 
+// Use map() to double each number in the array: [1, 2, 3, 4, 5].
+
+// let array = [1, 2, 3, 4, 5];
+// const doubleNum = array.map((item) => item * 2 
 
 
+// )
+// console.log(doubleNum);
+
+
+
+
+// 2. Use map() to convert an array of strings to uppercase: ["apple", "banana",
+// "cherry"].
+
+
+// let Fruits = ["apple", "banana", "cherry"];
+//  const upper = Fruits.map((item) => item.toUpperCase()  )
+
+//  console.log(upper);
+ 
+
+// 3. Use map() to extract the names from an array of objects:
+// [{name: "Alice"}, {name: "Bob"}, {name: "Charlie"}].
+// 4. Use map() to return the length of each word in the array: ["dog", "elephant",
+// "tiger"].
+// 5. Use map() to add a suffix -done to each task in an array: ["task1", "task2",
+// "task3"].
+// 6. Use map() to square each number in an array: [2, 4, 6, 8].
+// 7. Use map() to convert an array of prices to strings with a $ sign.
+// 8. Use map() to format an array of dates into readable strings.
+// 9. Use map() to create an array of booleans indicating if each number is even.
+// 10. Use map() to append the index to each string in an array.
+// 11. Use filter() to keep only the even numbers: [1, 2, 3, 4, 5, 6].
+// 12. Use filter() to remove all negative numbers from an array: [-3, 4, -1, 7, -5].
+// 13. Use filter() to get names longer than 4 characters: ["Joe", "Elizabeth",
+// "Tom", "Anna"].
+// 14. Use filter() to find all users who are active:
+// [{name: "Alice", active: true}, {name: "Bob", active: false}].
+
+// 15. Use filter() to get all words starting with the letter "a".
+// 16. Use filter() to keep only numbers greater than 10.
+// 17. Use filter() to remove all falsy values from an array.
+// 18. Use filter() to get strings that include the word "code".
+// 19. Use filter() to exclude null or undefined values.
+// 20. Use filter() to return products with price less than 100:
+// [{name: "Phone", price: 99}, {name: "Tablet", price: 120}].
+// 21. Use reduce() to sum all numbers in an array: [1, 2, 3, 4].
+// 22. Use reduce() to find the maximum number in an array.
+// 23. Use reduce() to count how many times each element appears:
+// ["apple", "banana", "apple", "orange", "banana"].
 
 
 
